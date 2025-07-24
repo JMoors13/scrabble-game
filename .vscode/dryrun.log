@@ -1,0 +1,13 @@
+make scrabble --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/jacob/Combined'
+g++ -Wall -Werror -std=c++14 -g -O -c Tile.cpp
+g++ -Wall -Werror -std=c++14 -g -O -c Node.cpp
+g++ -Wall -Werror -std=c++14 -g -O -c LinkedList.cpp
+g++ -Wall -Werror -std=c++14 -g -O -c Board.cpp
+g++ -Wall -Werror -std=c++14 -g -O -c Menu.cpp
+g++ -Wall -Werror -std=c++14 -g -O -c Player.cpp
+g++ -Wall -Werror -std=c++14 -g -O -c scrabble.cpp
+g++ -Wall -Werror -std=c++14 -g -O -c Student.cpp
+g++ -Wall -Werror -std=c++14 -g -O -o scrabble Tile.o Node.o LinkedList.o Board.o Menu.o Player.o scrabble.o Student.o
+make: Leaving directory '/home/jacob/Combined'
+ 
