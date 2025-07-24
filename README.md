@@ -1,10 +1,10 @@
-## Scrabble Game
+# Scrabble Game
 
 This is a scrabble game I designed during my university studies. It is a (hopefully) fully functioning game of scrabble that allows each user to place tiles down and shows both players score each turn.
 
 I may possibly come back to this project to add some mnior tweaks and quality of life changes if I get the chance.
 
-# Install
+## Install
 
 You'll need to be in a unix system to run the files.
 (I use wsl to run the program.)
@@ -14,7 +14,7 @@ The game will load and you can follow the prompts from there.
 
 (for some reason I don't explain the game upon the first turn, so here are the instructions for how to play)
 
-# How to play:
+## How to play:
 
 If you're ever stuck, you can type "help" to see what actions can be played.
 
